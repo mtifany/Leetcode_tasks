@@ -5,9 +5,7 @@ public class Leetcode_206_ReversedLinkedList {
     public class ListNode {
         int val;
         ListNode next;
-
-        ListNode() {
-        }
+        ListNode() {}
         ListNode(int val) {
             this.val = val;
         }

@@ -29,7 +29,6 @@ public class Leetcode_228_SummaryRanges {
               else
                 continue;
             }else
-              //  if (flag != 0)
                     str.append(nums[i]);
                 result.add(str.toString());
                 str = new StringBuilder();
